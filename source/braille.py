@@ -55,16 +55,19 @@ TABLES = (
 	("cz-cz-g1.utb", _("Czech grade 1"), False),
 	# Translators: The name of a braille table displayed in the
 	# braille settings dialog.
-	("da-dk-g16.ctb", _("Danish 6 dot grade 1"), False),
+	("da-dk-g08.ctb", _("Danish 8 dot computer braille"), True),
 	# Translators: The name of a braille table displayed in the
 	# braille settings dialog.
-	("da-dk-g18.ctb", _("Danish 8 dot grade 1"), False),
+	("da-dk-g16.ctb", _("Danish 6 dot grade 1"), True),
 	# Translators: The name of a braille table displayed in the
 	# braille settings dialog.
-	("da-dk-g26.ctb", _("Danish 6 dot grade 2"), False),
+	("da-dk-g18.ctb", _("Danish 8 dot grade 1"), True),
 	# Translators: The name of a braille table displayed in the
 	# braille settings dialog.
-	("da-dk-g28.ctb", _("Danish 8 dot grade 2"), False),
+	("da-dk-g26.ctb", _("Danish 6 dot grade 2"), True),
+	# Translators: The name of a braille table displayed in the
+	# braille settings dialog.
+	("da-dk-g28.ctb", _("Danish 8 dot grade 2"), True),
 	# Translators: The name of a braille table displayed in the
 	# braille settings dialog.
 	("de-de-comp8.ctb", _("German 8 dot computer braille"), True),
